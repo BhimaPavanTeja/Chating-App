@@ -2,7 +2,7 @@
 
 > A real-time chat application built with React Framework.
 
-# Project Details
+## Project Details
 
 Welcome to the Chat App project! This real-time chat application is designed to provide users with a nice communication experience. Whether you're looking to connect with friends, collaborate with colleagues, or engage with your community, our chat app has you covered.
 
