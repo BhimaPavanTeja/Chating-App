@@ -1,6 +1,7 @@
 # Chat App
 
-A real-time chat application built with React Framework.
+[!NOTE] 
+> A real-time chat application built with React Framework.
 
 ## Table of Contents
 
