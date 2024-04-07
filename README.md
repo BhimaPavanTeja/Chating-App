@@ -1,4 +1,4 @@
-# Chat App
+# Chat App by react developers
 
 > A real-time chat application built with React Framework.
 
