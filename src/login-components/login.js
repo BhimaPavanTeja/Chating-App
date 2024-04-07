@@ -12,7 +12,7 @@ const Login = () => {
       <div className='loginDetails'>
         <div className='loginHeader'>
         <h1>Sign in or create an account</h1>
-        <p>Then start chatting!</p>
+        <p>Then start chatting with app!</p>
         </div>
         <div className='google'>
           <img src={GoogleIcon} width={40} />
